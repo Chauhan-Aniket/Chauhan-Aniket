@@ -30,6 +30,6 @@ const aboutMe = {
 > I got this stats card from [Github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Chauhan-Aniket&show_icons=true)](https://github.com/Chauhan-Aniket/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Chauhan-Aniket&show_icons=true)](https://github.com/Chauhan-Aniket/)
 -->
 
