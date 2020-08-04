@@ -18,7 +18,8 @@ const aboutMe = {
         databases: ["SQL"],
         misc: ["SCSS"]
     },
-    funFact: “It works on my machine!”
+    funFact: “It works on my machine!”,
+    location: "INDIA"
 };
 ```
 ----------------------------------------------------------------------------------------------------------------------------------------------
