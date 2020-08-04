@@ -16,14 +16,16 @@ const aboutMe = {
         },
         devOps: ["AWS"],
         databases: ["SQL"],
-        misc: ["Firebase","SCSS"]
+        misc: ["SCSS"]
     },
     funFact: “It works on my machine!”
 };
 ```
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chauhan-Aniket&layout=compact)](https://github.com/Chauhan-Aniket/github-readme-stats)
 
 <!--
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Chauhan-Aniket&show_icons=true)](https://github.com/Chauhan-Aniket/github-readme-stats)
 -->
+
