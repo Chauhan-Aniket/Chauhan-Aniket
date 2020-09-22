@@ -7,11 +7,11 @@
 ```javascript
 const aboutMe = {
     pronouns: "He" | "Him",
-    code: ["Javascript","Python"],
+    code: ["Javascript","Python", "C"],
     askMeAbout: ["Webdev", "Webdesign", "Tech", "Games"],
     technologies: {
         frontEnd: {
-            js: ["react"],
+            js: ["vue", "react"],
             css: ["bootstrap"]
         },
         devOps: ["AWS"],
@@ -28,6 +28,10 @@ const aboutMe = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chauhan-Aniket&layout=compact)](https://github.com/Chauhan-Aniket/)
 > I got this stats card from [Github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+### You can find me on 
+<a href="https://www.linkedin.com/in/aniket-chauhan-816838150/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/_anichauhan_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <!--
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Chauhan-Aniket&show_icons=true)](https://github.com/Chauhan-Aniket/github-readme-stats)
 -->
