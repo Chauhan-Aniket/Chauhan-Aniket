@@ -11,7 +11,6 @@ const aboutMe = {
     askMeAbout: ["Webdev", "Tech", "Games"],
     technologies: {
         frontEnd: {
-            js: ["vue", "react"],
             css: ["bootstrap"]
         },
         devOps: ["AWS"],
@@ -33,7 +32,7 @@ const aboutMe = {
 
 
 ### You can find me on 
-<a href="https://www.linkedin.com/in/aniket-chauhan-816838150/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/aniketchauhan21/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/_anichauhan_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <!--
