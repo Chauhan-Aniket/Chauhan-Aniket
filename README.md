@@ -30,10 +30,11 @@ const aboutMe = {
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Chauhan-Aniket&show_icons=true)](https://github.com/Chauhan-Aniket/github-readme-stats)
 > I got this stats card from [Github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-
 ### You can find me on 
 <a href="https://www.linkedin.com/in/aniketchauhan21/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/_anichauhan_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+[First github account](https://github.com/ANi13055)
 
 <!--
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Chauhan-Aniket&show_icons=true)](https://github.com/Chauhan-Aniket/github-readme-stats)
