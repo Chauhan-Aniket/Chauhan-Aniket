@@ -11,7 +11,8 @@ const aboutMe = {
     askMeAbout: ["Webdev", "Tech", "Games"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap"]
+            css: ["Bootstrap"],
+            javaScript: ["React", "Gatsby"]
         },
         devOps: ["AWS"],
         databases: ["SQL"],
